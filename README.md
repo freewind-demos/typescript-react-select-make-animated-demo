@@ -1,7 +1,7 @@
-TypeScript React Select Demo
-=================================
+TypeScript React Select "components" Demo
+=========================================
 
-既可以输入又可以选择的Select组件。
+'react-select'的`components`属性，可以让我们定制组件的每一部分。
 
 ```
 npm install
