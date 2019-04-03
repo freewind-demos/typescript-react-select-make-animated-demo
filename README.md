@@ -1,7 +1,8 @@
-TypeScript React Select "components" Demo
+TypeScript React Select "makeAnimated" Demo
 =========================================
 
-'react-select'的`components`属性，可以让我们定制组件的每一部分。
+'react-select'有一个`makeAnimated`，把它传给`components`后，可以产生一些动画效果，
+比如去除已选的选项时。
 
 ```
 npm install
